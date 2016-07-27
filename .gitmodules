@@ -4,3 +4,6 @@
 [submodule "core/client"]
 	path = core/client
 	url = https://github.com/TryGhost/Ghost-Admin.git
+[submodule "core/Ghost-Admin"]
+	path = core/Ghost-Admin
+	url = https://github.com/jegesh/Ghost-Admin.git
